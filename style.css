@@ -1,0 +1,27 @@
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+td[title="blue"] {
+    color: blue;
+}
+td[title="gras"] {
+    font-weight: bold;
+}
+th span[title="blue"] {
+    color: blue;
+}
+th[title="blue"] {
+    color: blue;
+}
+h4 span[title="blue"] {
+    color: blue;
+  text;
+}
+.rge{
+    color: firebrick;
+}
+.joe{
+    border-bottom: 4px solid #02fff7;
+}
