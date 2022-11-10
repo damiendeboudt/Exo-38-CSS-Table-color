@@ -17,11 +17,29 @@ th[title="blue"] {
 }
 h4 span[title="blue"] {
     color: blue;
-  text;
+  vertical-align: super;
 }
 .rge{
     color: firebrick;
 }
-.joe{
-    border-bottom: 4px solid #02fff7;
+.hid{
+   border: none;
+}
+.blue{
+    background-color: cadetblue;
+}
+.red{
+    background-color: red;
+}
+.violet{
+    background-color: darkviolet;
+}
+.rose{
+    background-color: violet;
+}
+.jaune{
+    background-color: yellow;
+}
+#top{
+    background-color: #eae9e9;
 }
